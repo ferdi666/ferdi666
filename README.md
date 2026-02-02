@@ -1,5 +1,7 @@
 # Hello there! 👋
 
+![Hello there](https://raw.githubusercontent.com/ferdi666/ferdi666/refs/heads/main/obi-wan-kenobi.gif)
+
 - 👋 Hi , I'm [@ferdi666](github.com/ferdi666)
 - 🛸 I'm just a simple man, trying to make my way in the universe
 - 👨‍💻 Software Developer @ [*REDACTED*](https://youtu.be/dQw4w9WgXcQ?si=pH-x4lYClNmQ7bO4)
