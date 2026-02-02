@@ -5,8 +5,6 @@
 - 👋 Hi , I'm [@ferdi666](github.com/ferdi666)
 - 🛸 I'm just a simple man, trying to make my way in the universe
 - 👨‍💻 Software Developer @ [*REDACTED*](https://youtu.be/dQw4w9WgXcQ?si=pH-x4lYClNmQ7bO4)
-- 🏢 [LinkedIn Account](https://www.linkedin.com/in/ferdinandgadorii/)
-- 📽️ [Youtube Channel](https://youtube.com/@skacasio9069?si=uTmyK2bGztgDOIPa)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdinandgadorii/)
 - [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat)](https://youtube.com/@skacasio9069?si=uTmyK2bGztgDOIPa)
 
